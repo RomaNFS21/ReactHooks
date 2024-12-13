@@ -1,6 +1,6 @@
 import "./App.css";
 import React, { useState } from "react";
-import CountClicks from "./Components/CountClicks";
+import CountClicks from "./components/CountClicks";
 
 function App() {
   return (
