@@ -1,11 +1,13 @@
 import "./App.css";
 import React, { useState } from "react";
-import CountClicks from "./Components/CountClicks";
+import Contador from "./Components/Contador";
+import BotaoAlternador from "./Components/BotaoAlternador";
 
 function App() {
   return (
     <div className="App">
-      <CountClicks />
+      <Contador />
+      <BotaoAlternador />
     </div>
   );
 }
