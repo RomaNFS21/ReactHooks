@@ -3,7 +3,7 @@ import React, { useState } from "react";
 function CountClicks() {
   const [count, setCount] = useState(0);
 
-  if (setCount < 0) {
+  if (count < 0) {
     setCount = 0;
   }
 
