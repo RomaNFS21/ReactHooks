@@ -8,7 +8,7 @@
 - As funções Adicionar e Retirar foram atreladas cada uma em um botão para quando forem clicadas executares suas funções determinadas
 - No arquivo App.js foi importado a função Contador e adicionado o componente para exibição do contador e dos botões
 
-![Contador e Botoes ](src/prints/Contador.png)
+![Contador e Botoes](hook-activities/src/prints/Contador.png)
 
 ### Problema 2 - BotaoAlternador
 
@@ -18,5 +18,5 @@
 - Na parte do botão é chamado a função handleClick onde possui um operador ternário que quando o valor for true ira aparecer escrito no botao LIGADO e no caso de false DESLIGADO
 - No arquivo App.js foi importado a função BotaoAlternador e adicionado o componente para exibição do botão que inicialmente é gerado no estado DESLIGADO
 
-![BOTAO DESLIGADO ](src/prints/DESLIGADO.png)
-![BOTAO LIGADO](src/prints/LIGADO.png)
+![BOTAO DESLIGADO](hook-activities/src/prints/DESLIGADO.png)
+![BOTAO LIGADO](hook-activities/src/prints/LIGADO.png)
